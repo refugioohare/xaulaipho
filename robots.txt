@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eipoelohzo.emma-language.org/sitemap.xml
